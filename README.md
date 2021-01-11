@@ -1,4 +1,4 @@
-# thirdapp
+# Startup Name Generator
 
 A new Flutter project.
 
