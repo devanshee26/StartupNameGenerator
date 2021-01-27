@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+## Screens
+<img src="https://user-images.githubusercontent.com/55467927/105941718-0e7db100-6084-11eb-972b-d77d4eac58c5.jpg" width="150">
+<img src="https://user-images.githubusercontent.com/55467927/105941720-0faede00-6084-11eb-988c-6667bb73f545.jpg" width="150">
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
